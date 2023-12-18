@@ -1,9 +1,13 @@
 # chatGPT_discord_bot
 ## 概要
 chatGPT APIをdiscord側から利用できるbotの実装です。
+
 fly.ioでデプロイしていますが、非公開botとなっています。
+
 pythonのバージョンは3.11.5で実装しました。
 
+### 実行例
+![Alt text](image.png)
 ## 実行
 - pythonのバージョンを確認する
 ```
